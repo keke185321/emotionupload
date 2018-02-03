@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/kliao/Project/emotion-recognition-neural-networks/data/emotion_recognition-2425"
+all_model_checkpoint_paths: "/home/kliao/Project/emotion-recognition-neural-networks/data/emotion_recognition-2425"
